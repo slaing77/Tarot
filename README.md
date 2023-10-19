@@ -7,7 +7,7 @@ Best to think of the Collective Unconscious as an endless resevior of cultural s
 Considering the evolution of AI, it struck me that AI is trained on Human behaviour and therefore potentially may have an artificial resevior of imagery similar to the "Collective Unconsious" and could potentially be an excellent source of tarot imagery.
 
 ## A Sample of Tarot Images I created using AI Generators
-#### Text and image prompts. Layout and artistic alterations created in GIMP.
+#### Text and image prompts. Layout and artistic alterations created in GIMP, Krita, Canva and Inkscape.
 
 ### o The Fool <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/0-%20The%20Fool.png" alt="The The Fool" style="width:300px;"/><br>
 ### 1 The Magician <br> <img src="https://github.com/slaing77/Tarot/blob/6956de2f55aa062f629bc8efed3bbac96cc91bf8/Ai_Starlyy/1_The_Magician.png" alt="The Magician" style="width:300px;"/></br>

@@ -32,10 +32,8 @@ Considering the evolution of AI, it struck me that AI is trained on Human behavi
 ### 18 The Moon <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/18_The_Moon.jpg" alt="The Moon" style="width:300px;"/><br>
 ### 19 The Sun <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/19_The_Sun.JPG" alt="The Sun" style="width:300px;"/><br>
 
-
-[^1]: CHOICE & Tarot
-The 6th Major Arcana; The Lovers is infused with the notions of romantic love. Part of art of reading tarot is developing an understanding of correspondences 
-For instance, the planet Venus rules the number 6, is deified as the Goddess of Love and imbues the card with romantic meanings and energy.  
+[^1]: CHOICE & Tarot: Tarot's 6th Major Arcana, The Lovers is infused with the notions of romantic love. Part of art of reading tarot is developing an understanding 
+ of correspondences. For instance, the planet Venus rules the number 6, is deified as the Goddess of Love and imbues the card with romantic meanings and energy.  
 Traditionally this is one of the cards that feature a central Angel. The other three are Temperance, Justice and the Devil (An Angel, though fallen)  
 The other main theme of the Lovers card is that of Choice. As eluded to in Rider Waite's deck, the images created by Pamela Coleman-Smith for this card, include the aforementioned Angel (Raphael - the Arch Angel of Healing) blessing a couple who look suspiciously like Adam and Eve. The tree of knowledge to the left of Eve depicts a serpent coiled among its branches, and the tree of Life to the right of Adam include 12 flames in place of leaves depicting divine will. This is the defining moment of romantic choice, to be tempted by forbidden fruit or to uphold a sacred covenant.  You may notice the similarities between the Lovers card and The Devil card. Where-in the Mountain between the couple has been replaced by a black rectangle serving as both the seat of the fallen Angel, and the source of the chains encircling both figures. Trees are transformed to tails, featuring fruit for eve, and flames for Adam.  Presumably, there is quite a connection between the Lovers card and The Devil card.  Due to this, I have been working on the Lovers and the Devil card using the S-Curve pattern in both of my base sketches and will be highlighting visual correspondences between both cards.
 

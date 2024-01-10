@@ -10,6 +10,9 @@ I've constrained the content to less than 60 seconds of video each, which gives 
 It is challenging to fit 7 centuries of traditions into 30 second sound bites.  I do enjoy a challenge and so far, I am pleased with the results.
 
 I have created 3 under 60 second videos illustrating the first 3 Archetpes in order of appearance; 0. The Fool, 1. The Magician, 2. The High Priestess.
+Come take a look at them on my TicTok, give me a follow, leave a comment or smash that like button if you are so inclined :)
+### [TicTokTarot](https://https://www.tiktok.com/@reenahlaing"TicTok")</br>
+
 
 ### I am taking a break on video creation today, to focus on fleshing out a bit of the underlying structure of the tarot which will by necessity include:
 1. A brief (I hope) rundown on the history of Tarot.

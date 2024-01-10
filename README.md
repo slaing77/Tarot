@@ -1,8 +1,17 @@
 # Tarot
 ### Ai Starlyy
-PLEASE NOTE, I HAVE BEEN EXPERIMENTING WITH AI IMAGE GENERATION. MY WORDS AND WRITINGS ARE NOT AI GENERATED. THEY ARE ALL MY OWN.
+Please note: I have been experimenting with AI Image and Voice generation. All copy written by me, from my knowledge and research into the history and various systems of Tarot.
 
 # Methods
+### UPDATE January 2024
+I've begun creating short video's as part of this project. 
+The idea is to introduce the viewer to each archetype of the 22 Major Arcana's from the Archetypes POV.
+I've constrained the content to less than 60 seconds of video each, which gives me on avergare 40 seconds of narration.
+It is challenging to fit 7 centuries of traditions into 30 second sound bites.  I do enjoy a challenge and so far, I am pleased with the results.
+
+I intend to use these video's as sort of chapter headings when I am ready to start stringing everything together as a cohesive blog, website, and eventually - book and cards.
+
+How it started January 2023:
 Using Starry AI, text based prompts, and my own created style sets along with other curated styles I am building a tarot deck. Hundreds of iterations, variations, prompts and negative prompts later, I am often left with so many multiple compelling images that it becomes difficult to choose only one.
 But choose, I must [^1].
 

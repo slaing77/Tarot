@@ -15,7 +15,7 @@ I have created 3 under 60 second videos illustrating the first 3 Archetypes in o
 3. 2-The High Priestess.
 
 Come take a look at them on my TicTok, give me a follow, leave a comment or smash that like button if you are so inclined :)
-### [TicTokTarot](https://https://www.tiktok.com/@reenahlaing)</br>
+### [TicTokTarot](https://www.tiktok.com/@reenahlaing)</br>
 
 ### Tarot and Data Analysis
 Another aspect to this project is my love of data analysis, of diving into a pile of seemingly nonsensical data to explore and pull-out cohesive insights.  In a way, Analytics and divination have similar processes: observe, classify, categorise, draw inferences, develop hypothesis, test hypothesis, fine tune processes and do it all again - comparing results.

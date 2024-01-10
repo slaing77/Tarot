@@ -17,10 +17,10 @@ I have created 3 under 60 second videos illustrating the first 3 Archetpes in or
 3. The 4 Elemental dignitaries and how they interplay between cards. 
 4. An intro to the 22 Hebrew Letter names for each Major Arcana
 5. An intro to the 10 Sefirot
-6. An intro to the 3 Triads of Sefirot with an exploration of the first triad as represented by the first three cards, 0. The Fool, 1. The Magician and 2. The High Preistess.
+6. ** An intro to the 3 Triads of Sefirot with an exploration of the first triad as represented by the first three cards, 0. The Fool, 1. The Magician and 2. The High Preistess.**
 
 
-###Intentions
+### Intentions
 I intend to use these video's as sort of chapter headings when I am ready to start stringing everything together as a cohesive blog, website, and eventually - book and cards.
 
 ### How it started January 2023:

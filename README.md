@@ -9,9 +9,21 @@ The idea is to introduce the viewer to each archetype of the 22 Major Arcana's f
 I've constrained the content to less than 60 seconds of video each, which gives me on avergare 40 seconds of narration.
 It is challenging to fit 7 centuries of traditions into 30 second sound bites.  I do enjoy a challenge and so far, I am pleased with the results.
 
+I have created 3 under 60 second videos illustrating the first 3 Archetpes in order of appearance; 0. The Fool, 1. The Magician, 2. The High Priestess.
+
+### I am taking a break on video creation today, to focus on fleshing out a bit of the underlying structure of the tarot which will by necessity include:
+1. A brief (I hope) rundown on the history of Tarot.
+2. Intro to Correspondants, what they are and how to use them.
+3. The 4 Elemental dignitaries and how they interplay between cards. 
+4. An intro to the 22 Hebrew Letter names for each Major Arcana
+5. An intro to the 10 Sefirot
+6. An intro to the 3 Triads of Sefirot with an exploration of the first triad as represented by the first three cards, 0. The Fool, 1. The Magician and 2. The High Preistess.
+
+
+###Intentions
 I intend to use these video's as sort of chapter headings when I am ready to start stringing everything together as a cohesive blog, website, and eventually - book and cards.
 
-How it started January 2023:
+### How it started January 2023:
 Using Starry AI, text based prompts, and my own created style sets along with other curated styles I am building a tarot deck. Hundreds of iterations, variations, prompts and negative prompts later, I am often left with so many multiple compelling images that it becomes difficult to choose only one.
 But choose, I must [^1].
 
@@ -28,10 +40,14 @@ Considering the evolution of AI, it struck me that AI is trained on Human behavi
 
 ## A Sample of Tarot Images I created using AI Generators
 #### Text and image prompts. Layout and artistic alterations created in GIMP, Krita, Canva and Inkscape.
+#### Video's produced by a variety of methods including Microsoft Clipchamp, ChatGPT, Veed.io, speechify, elevenlabs and natural readers.
 
-### o The Fool <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/0-%20The%20Fool.png" alt="The The Fool" style="width:300px;"/><br>
-### 1 The Magician <br> <img src="https://github.com/slaing77/Tarot/blob/6956de2f55aa062f629bc8efed3bbac96cc91bf8/Ai_Starlyy/1_The_Magician.png" alt="The Magician" style="width:300px;"/></br>
-### 2 The High Priestess <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/2_The_high_Priestess.jpg" alt="The High Priestess" style="width:300px;"/><br>
+### [0. Embrace Infinite Possibilities: Intro to The Fool Video](https://www.veed.io/view/a28f2932-d640-4586-b09c-1b49b87a996d?panel=share"Veedio")</br>
+<img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/0-%20The%20Fool.png" alt="The The Fool" style="width:300px;"/><br>
+### [1. Master of Manifestation: Intro to the Magician Video](https://www.veed.io/view/8616682e-cd80-4df7-9c58-f35361964d2e?panel=share"Veedio")</br>
+<br> <img src="https://github.com/slaing77/Tarot/blob/6956de2f55aa062f629bc8efed3bbac96cc91bf8/Ai_Starlyy/1_The_Magician.png" alt="The Magician" style="width:300px;"/></br>
+### [2. Revealing Hidden Wisdom: Intro to The High Priestess Video](https://www.veed.io/view/38245fc9-f6a8-4df1-9b86-6012ea8c844b?panel=share}Veedio")</br>
+<br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/2_The_high_Priestess.jpg" alt="The High Priestess" style="width:300px;"/><br>
 ### 3 The Empress <br> <img src="Ai_Starlyy/The_Empress_wheat.png" alt="The Empress" style="width:300px;"/><br>
 ### 4 The Emperor <br> <img src="https://github.com/slaing77/Tarot/blob/0c0cdc46bb603e80564cd5676c25f3abae5485e8/Ai_Starlyy/4_The_Emperor.png" alt="The Emperor" style="width:300px;"/><br>
 ### 8 Fortitude <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/8_Fortitude.png" alt="Fortitude" style="width:300px;"/><br>

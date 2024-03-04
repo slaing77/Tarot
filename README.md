@@ -78,7 +78,7 @@ Considering the evolution of AI, it struck me that AI is trained on Human behavi
 ### 14 Temperance <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/6.%20Temperance.png" alt="Temperance" style="width:300px;"/><br>
 ### 17 The Star <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/17_The_Star.JPG" alt="The Star" style="width:300px;"/><br>
 ### 18 The Moon <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/18_The_Moon.jpg" alt="The Moon" style="width:300px;"/><br>
-### 19 The Sun (Updated) <br> <img src="[https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/19_The_Sun.JPG](https://github.com/slaing77/Tarot/blob/main/Ai_Starlyy/the_sun_child.PNG)" alt="The Sun" style="width:300px;"/><br>
+### 19 The Sun (Updated) <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/19_The_Sun.JPG" alt="The Moon" style="width:300px;"/><br>(https://github.com/slaing77/Tarot/blob/main/Ai_Starlyy/the_sun_child.PNG)" alt="The Sun" style="width:300px;"/><br>
 
 [^1]: CHOICE & Tarot: Tarot's 6th Major Arcana, The Lovers is infused with the notions of romantic love. Part of the art of designing for tarot is developing an understanding of correspondences and working those in as visual clues and reminders for the reader. For instance, the planet Venus rules the number 6, is deified as the Goddess of Love and imbues the card with romantic meanings and energy.  
 Additionally, this is one of the cards that feature a central Angel. The other three cards are Temperance, Justice and the Devil (An Angel, though fallen)  

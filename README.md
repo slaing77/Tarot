@@ -47,7 +47,7 @@ I intend to use these videos as sort of chapter headings when I am ready to star
 
 ### How it started January 2023:
 # Methods
-Using Starry AI, text-based prompts, and my own created style sets along with other curated styles I am building a tarot deck. Hundreds of iterations, variations, prompts and negative prompts later, I am often left with so many multiple compelling images that it becomes difficult to choose only one.
+Using Starry AI, text-based prompts, and my own created style sets along with other curated styles I am building a digital tarot deck. Hundreds of iterations, variations, prompts and negative prompts later, I am often left with so many multiple compelling images that it becomes difficult to choose only one.
 But choose, I must [^1].
 
 From there I open one of my photo manipulation or illustrator programs, depending on my need and want.

@@ -8,7 +8,7 @@ Please note: I have been experimenting with AI Image and Voice generation. All c
 Using the data set I've built, I've begun a study of Probabilities in Tarot using Python, Pandas and sklearn in a Jupyter Notebook.
 # Videos
 This data set has also been invaluable to me in the writing process. I can easily pick out the key bits of information I need to communicate per Archetype.
-I have created 3 under 60 second videos illustrating the first 3 Archetypes in order of appearance.
+I have created 4 under 120 second videos illustrating the first 4 Archetypes in order of appearance.
 
 1. [0-The Fool](https://www.tiktok.com/@reenahlaing/video/7320767692229692677?_t=8mtBXugyanN&_r=1)
 2. [1-The Magician](https://www.tiktok.com/@reenahlaing/video/7321794120157121797?_t=8mtBTndpqiM&_r=1)

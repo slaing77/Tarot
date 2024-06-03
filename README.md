@@ -10,9 +10,10 @@ Using the data set I've built, I've begun a study of Probabilities in Tarot usin
 This data set has also been invaluable to me in the writing process. I can easily pick out the key bits of information I need to communicate per Archetype.
 I have created 3 under 60 second videos illustrating the first 3 Archetypes in order of appearance.
 
-1. 0-The Fool
-2. 1-The Magician
-3. 2-The High Priestess.
+1. [0-The Fool](https://www.tiktok.com/@reenahlaing/video/7320767692229692677?_t=8mtBXugyanN&_r=1)
+2. [1-The Magician](https://www.tiktok.com/@reenahlaing/video/7321794120157121797?_t=8mtBTndpqiM&_r=1)
+3. [2-The High Priestess](https://www.tiktok.com/@reenahlaing/video/7322211524355869957?_t=8mtBOn0RxIs&_r=1)
+4. [3-The Empress - a bit longer at 1:58](https://www.tiktok.com/@reenahlaing/video/7376058369984974085?_t=8mtBDra7snd&_r=1)
 
 Come take a look at them on my TicTok, give me a follow, leave a comment or smash that like button if you are so inclined :)
 ### [TicTokTarot](https://www.tiktok.com/@reenahlaing)</br>

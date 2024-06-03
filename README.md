@@ -1,5 +1,5 @@
 ### AI TAROT
-Please note: I have been experimenting with AI Image and Voice generation. All copy written by me, from my knowledge and research into the history and various systems of Tarot.
+Please note: I have been experimenting with AI Image Voice & video generation. All copy written by me, from my knowledge and research into the history and various systems of Tarot.
 
 ### UPDATE January 2024
 # Data Set

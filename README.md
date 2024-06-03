@@ -72,7 +72,7 @@ Considering the evolution of AI, it struck me that AI is trained on Human behavi
 <br> <img src="https://github.com/slaing77/Tarot/blob/6956de2f55aa062f629bc8efed3bbac96cc91bf8/Ai_Starlyy/1_The_Magician.png" alt="The Magician" style="width:300px;"/></br>
 ### [2. Revealing Hidden Wisdom: Intro to The High Priestess Video](https://www.veed.io/view/38245fc9-f6a8-4df1-9b86-6012ea8c844b?panel=share}Veedio")</br>
 <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/2_The_high_Priestess.jpg" alt="The High Priestess" style="width:300px;"/><br>
-### 3 The Empress UPDATED <br> <img src="Ai_Starlyy/The_Empress_wheat.png" alt="The Empress" style="width:300px;"/><br>
+### [3-The Empress - a bit longer at 1:58](https://www.tiktok.com/@reenahlaing/video/7376058369984974085?_t=8mtBDra7snd&_r=1) <br> <img src="Ai_Starlyy/The_Empress_wheat.png" alt="The Empress" style="width:300px;"/><br>
 ### 4 The Emperor <br> <img src="https://github.com/slaing77/Tarot/blob/0c0cdc46bb603e80564cd5676c25f3abae5485e8/Ai_Starlyy/4_The_Emperor.png" alt="The Emperor" style="width:300px;"/><br>
 ### 8 Fortitude <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/8_Fortitude.png" alt="Fortitude" style="width:300px;"/><br>
 ### 11 Justice <br> <img src="https://github.com/slaing77/Tarot/blob/5584988f6c92bd46eef216947cc96c45894a9d6b/11_Justice.png" alt="Justice" style="width:300px;"/><br>
